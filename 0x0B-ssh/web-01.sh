@@ -5,4 +5,6 @@
 eval $("ssh-agent")
 
 #path to dentity file
-ssh-add ~/OXOB-ssh
+ssh-add ~/.ssh/school
+
+ssh ubuntu@100.26.50.147
